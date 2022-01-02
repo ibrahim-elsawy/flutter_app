@@ -1,0 +1,4 @@
+#Sun Jan 02 07:46:11 EET 2022
+base.0=/home/notfound/StudioProjects/app1/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
